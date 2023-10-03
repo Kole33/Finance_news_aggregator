@@ -9,7 +9,7 @@ Interactive GUI: Presents aggregated news in a clean and interactive graphical i
 Resizable Display: The GUI is fully resizable, enabling users to view news in both windowed and fullscreen modes.
 Copy Functionality: Allows users to easily copy news headlines and details for further reference.
 Installation & Usage
-Clone the repository: git clone https://github.com/kole33/FinanceNewsAggregator.git
+Clone the repository: git clone (https://github.com/Kole33/Finance_news_aggregator.git)
 Navigate to the project directory: cd FinanceNewsAggregator
 Install required libraries: pip install -r requirements.txt
 Run the aggregator: python master_aggregator.py or just double click start 
